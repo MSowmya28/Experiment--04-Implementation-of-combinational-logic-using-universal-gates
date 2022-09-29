@@ -66,7 +66,7 @@ using NOR:
 ### Timing Diagram:
 ![output](./combo1%20wave.PNG)
 ### Truth table:
-![output](./combo1%20wave.PNG)
+![output](./combo1TT.PNG)
 
 ## USING NOR:
 ### RTL:
